@@ -1,8 +1,10 @@
 - 🤘 Hello. Hey. Hei. I'm @desoda @ GitHub. Aka Antisoda. Aka soda.
 - 👇 This is just a thrown-together README.md file to quickly introduce myself.
-- 👀 I’m interested in programming, webdesign, and photography.
+- 👀 I’m interested in programming, webdesign, 3D-printing and photography.
 - 👨‍💻 I'm an IT professional by trade and my field is computer and server fault diagnosis and repair.
-- 🎨 My knowleede of webdesign – HTML, CSS & JavaScript – is all self-taught.
+- 🎓 My only formal education in proramming was in Turbo Pascal 5.5. Not a particularly useful skill today, I grant you, but laid the basis for learning programming in general.
+- ⌨ I'm self taught in things like  C, C#, PHP, HTML, CSS, and JavaScript.
+- 🎨 My knowledge of webdesign is also all self taught and is pretty basic.
 - 🌱 I’m currently undergoing training in HTML, CSS and JavaScript in slightly more structured forms.
 - 📫 How to reach me: Try my talk pages on either [en.wikipedia.org](https://en.wikipedia.org/wiki/User_talk:Desoda) or [no.wikipedia.org](https://no.wikipedia.org/wiki/Brukerdiskusjon:Desoda).
 - 📷 Check out my photos on [flickr](https://flickr.com/photos/desoda/) or [Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Desoda).
