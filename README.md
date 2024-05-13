@@ -2,7 +2,7 @@
 - 👇 This is just a thrown-together README.md file to quickly introduce myself.
 - 👀 I’m interested in programming, webdesign, 3D-printing and photography.
 - 👨‍💻 I'm an IT professional by trade and my field is computer and server fault diagnosis and repair.
-- 🎓 My only formal education in proramming was in Turbo Pascal 5.5. Not a particularly useful skill today, I grant you, but laid the basis for learning programming in general.
+- 🎓 My only formal education in proramming was in Turbo Pascal 5.5. Not a particularly useful skill today, I grant you, but it laid the base for learning programming in general.
 - ⌨ I'm self taught in things like  C, C#, PHP, HTML, CSS, and JavaScript.
 - 🎨 My knowledge of webdesign is also all self taught and is pretty basic.
 - 🌱 I’m currently undergoing training in HTML, CSS and JavaScript in slightly more structured forms.
