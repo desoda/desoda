@@ -1,0 +1,8 @@
+- 🤘 Hello. Hey. Hei. I'm @desoda @ GitHub. Aka Antisoda. Aka soda.
+- 👇 This is just a thrown-together README.md file to quickly introduce myself.
+- 👀 I’m interested in programming, webdesign, and photography.
+- 👨‍💻 I'm an IT professional by trade and my field is computer and server fault diagnosis and repair.
+- 🎨 My knowleede of webdesign – HTML, CSS & JavaScript – is all self-taught.
+- 🌱 I’m currently undergoing training in HTML, CSS and JavaScript in slightly more structured forms.
+- 📫 How to reach me: Try my talk pages on either [en.wikipedia.org](https://en.wikipedia.org/wiki/User_talk:Desoda) or [no.wikipedia.org](https://no.wikipedia.org/wiki/Brukerdiskusjon:Desoda).
+- 📷 Check out my photos on [flicr](https://flickr.com/photos/desoda/) or [Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Desoda).
