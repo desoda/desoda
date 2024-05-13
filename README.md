@@ -5,4 +5,4 @@
 - 🎨 My knowleede of webdesign – HTML, CSS & JavaScript – is all self-taught.
 - 🌱 I’m currently undergoing training in HTML, CSS and JavaScript in slightly more structured forms.
 - 📫 How to reach me: Try my talk pages on either [en.wikipedia.org](https://en.wikipedia.org/wiki/User_talk:Desoda) or [no.wikipedia.org](https://no.wikipedia.org/wiki/Brukerdiskusjon:Desoda).
-- 📷 Check out my photos on [flicr](https://flickr.com/photos/desoda/) or [Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Desoda).
+- 📷 Check out my photos on [flickr](https://flickr.com/photos/desoda/) or [Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Desoda).
