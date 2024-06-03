@@ -1,10 +1,18 @@
-- 🤘 Hello. Hey. Hei. I'm @desoda @ GitHub. Aka Antisoda. Aka soda.
+- 🤘 Hello. Hey. Hi. I’m @desoda on GitHub. Aka Antisoda. Aka soda.
 - 👇 This is just a thrown-together README.md file to quickly introduce myself.
 - 👀 I’m interested in programming, webdesign, 3D-printing and photography.
-- 👨‍💻 I'm an IT professional by trade and my field is computer and server fault diagnosis and repair.
-- 🎓 My only formal education in proramming was in Turbo Pascal 5.5. Not a particularly useful skill today, I grant you, but it laid the base for learning programming in general.
-- ⌨ I'm self taught in things like  C, C#, PHP, HTML, CSS, and JavaScript.
-- 🎨 My knowledge of webdesign is also all self taught and is pretty basic.
-- 🌱 I’m currently undergoing training in HTML, CSS and JavaScript in slightly more structured forms.
-- 📫 How to reach me: Try my talk pages on either [en.wikipedia.org](https://en.wikipedia.org/wiki/User_talk:Desoda) or [no.wikipedia.org](https://no.wikipedia.org/wiki/Brukerdiskusjon:Desoda).
-- 📷 Check out my photos on [flickr](https://flickr.com/photos/desoda/) or [Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Desoda).
+- 💾 I’m a computer nerd at heart.
+- 👨‍💻 I’m an IT professional by trade and my field is computer and server fault diagnosis and repair.
+- 🔤 My first introduction to programming was, as with most of my generation, BASIC. Locomotive BASIC on the Amstrad CPC464, to be exact. 8bitFTW! 😊
+- 🎓 My only **formal** education in proramming was _Turbo Pascal 5.5_. Not a highly sought-after programming language today, I grant you, but it laid a base for me learning programming in general.
+- ⌨️ I’m self-taught in languages like C and C#. I’ve pretty much avoided C++.
+- 👾 I’ve dipped my toes into Unity, ever so slightly, though the [Unity fee controversy](https://gist.github.com/runevision/1c0d6a856dda1461577cf7f84574253a) has slightly dampened _any_ desire of mine to explore that engine.
+- 🕸️ I do have _some_ experience with web development, like PHP, HTML, CSS, JavaScript, etc, but as with C and C#, all self-taught.
+- 🎨 My knowledge of webdesign is also all self taught, and, alas, pretty basic. _Color theory, what is that?_
+- 🌱 I’m currently learning HTML, CSS and JavaScript in a slightly more structured setting. Hopefully with some excursions into React or other JS frameworks.
+- 📫 How to reach me:
+  - My talk pages on Wikipedia/Wikimedia:
+    - <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="18" height="13"> [en.wikipedia.org](https://en.wikipedia.org/wiki/User_talk:Desoda)
+    - <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="18" height="13"> [commons.wikimedia.org](https://commons.wikimedia.org/wiki/User_talk:Desoda) – [My images](https://commons.wikimedia.org/wiki/User:Desoda)
+    - <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" width="18" height="13  "> [no.wikipedia.org](https://no.wikipedia.org/wiki/Brukerdiskusjon:Desoda)
+- 📷 Check out my photos on [flickr](https://flickr.com/photos/desoda/)
